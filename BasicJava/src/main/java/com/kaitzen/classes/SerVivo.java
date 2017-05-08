@@ -1,6 +1,6 @@
 package com.kaitzen.classes;
 
-public class SerVivo {
+public abstract class SerVivo {
 
     public void respirar() {
 

@@ -1,12 +1,14 @@
 package com.kaitzen.classes;
 
 public class Hombre extends Mamifero implements com.kaitzen.interfaces.Hombre {
-    @Override
+    public String nombre;
+    public Long documento;
+    public Integer edad;
+
     public void pensar() {
 
     }
 
-    @Override
     public void hablar() {
 
     }
