@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProyectCuenta/src/main/main.iml" filepath="$PROJECT_DIR$/ProyectCuenta/src/main/main.iml" group="Cuenta" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectLibro/src/main/main1.iml" filepath="$PROJECT_DIR$/ProyectLibro/src/main/main1.iml" group="Libro" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectCalculadora/src/main/main2.iml" filepath="$PROJECT_DIR$/ProyectCalculadora/src/main/main2.iml" group="Calculadora" />
+      <module fileurl="file://$PROJECT_DIR$/BasicJava/src/main/main3.iml" filepath="$PROJECT_DIR$/BasicJava/src/main/main3.iml" group="Basic" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectFecha/src/main/main4.iml" filepath="$PROJECT_DIR$/ProyectFecha/src/main/main4.iml" group="Fecha" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectNif/src/main/main5.iml" filepath="$PROJECT_DIR$/ProyectNif/src/main/main5.iml" group="Nif" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectFecha/src/test/test.iml" filepath="$PROJECT_DIR$/ProyectFecha/src/test/test.iml" group="Fecha" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectCalculadora/src/test/test1.iml" filepath="$PROJECT_DIR$/ProyectCalculadora/src/test/test1.iml" group="Calculadora" />
+      <module fileurl="file://$PROJECT_DIR$/BasicJava/src/test/test2.iml" filepath="$PROJECT_DIR$/BasicJava/src/test/test2.iml" group="Basic" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectCuenta/src/test/test3.iml" filepath="$PROJECT_DIR$/ProyectCuenta/src/test/test3.iml" group="Cuenta" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectNif/src/test/test4.iml" filepath="$PROJECT_DIR$/ProyectNif/src/test/test4.iml" group="Nif" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectLibro/src/test/test5.iml" filepath="$PROJECT_DIR$/ProyectLibro/src/test/test5.iml" group="Libro" />
+    </modules>
+  </component>
+</project>
