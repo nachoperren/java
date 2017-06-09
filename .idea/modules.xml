@@ -2,18 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ProyectCuenta/src/main/main.iml" filepath="$PROJECT_DIR$/ProyectCuenta/src/main/main.iml" group="Cuenta" />
-      <module fileurl="file://$PROJECT_DIR$/ProyectLibro/src/main/main1.iml" filepath="$PROJECT_DIR$/ProyectLibro/src/main/main1.iml" group="Libro" />
-      <module fileurl="file://$PROJECT_DIR$/ProyectCalculadora/src/main/main2.iml" filepath="$PROJECT_DIR$/ProyectCalculadora/src/main/main2.iml" group="Calculadora" />
-      <module fileurl="file://$PROJECT_DIR$/BasicJava/src/main/main3.iml" filepath="$PROJECT_DIR$/BasicJava/src/main/main3.iml" group="Basic" />
-      <module fileurl="file://$PROJECT_DIR$/ProyectFecha/src/main/main4.iml" filepath="$PROJECT_DIR$/ProyectFecha/src/main/main4.iml" group="Fecha" />
-      <module fileurl="file://$PROJECT_DIR$/ProyectNif/src/main/main5.iml" filepath="$PROJECT_DIR$/ProyectNif/src/main/main5.iml" group="Nif" />
-      <module fileurl="file://$PROJECT_DIR$/ProyectFecha/src/test/test.iml" filepath="$PROJECT_DIR$/ProyectFecha/src/test/test.iml" group="Fecha" />
-      <module fileurl="file://$PROJECT_DIR$/ProyectCalculadora/src/test/test1.iml" filepath="$PROJECT_DIR$/ProyectCalculadora/src/test/test1.iml" group="Calculadora" />
-      <module fileurl="file://$PROJECT_DIR$/BasicJava/src/test/test2.iml" filepath="$PROJECT_DIR$/BasicJava/src/test/test2.iml" group="Basic" />
-      <module fileurl="file://$PROJECT_DIR$/ProyectCuenta/src/test/test3.iml" filepath="$PROJECT_DIR$/ProyectCuenta/src/test/test3.iml" group="Cuenta" />
-      <module fileurl="file://$PROJECT_DIR$/ProyectNif/src/test/test4.iml" filepath="$PROJECT_DIR$/ProyectNif/src/test/test4.iml" group="Nif" />
-      <module fileurl="file://$PROJECT_DIR$/ProyectLibro/src/test/test5.iml" filepath="$PROJECT_DIR$/ProyectLibro/src/test/test5.iml" group="Libro" />
+      <module fileurl="file://$PROJECT_DIR$/BasicJava/BasicJava.iml" filepath="$PROJECT_DIR$/BasicJava/BasicJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjectDB/ProjectDB.iml" filepath="$PROJECT_DIR$/ProjectDB/ProjectDB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectCalculadora/ProyectCalculadora.iml" filepath="$PROJECT_DIR$/ProyectCalculadora/ProyectCalculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectCuenta/ProyectCuenta.iml" filepath="$PROJECT_DIR$/ProyectCuenta/ProyectCuenta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectFecha/ProyectFecha.iml" filepath="$PROJECT_DIR$/ProyectFecha/ProyectFecha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectLibro/ProyectLibro.iml" filepath="$PROJECT_DIR$/ProyectLibro/ProyectLibro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProyectNif/ProyectNif.iml" filepath="$PROJECT_DIR$/ProyectNif/ProyectNif.iml" />
     </modules>
   </component>
 </project>

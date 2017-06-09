@@ -1,8 +1,9 @@
 package com.kaitzen.classes;
 
 public class Perro extends Mamifero implements com.kaitzen.interfaces.Perro {
-    @Override
-    public void ladrar() {
 
-    }
+	public void ladrar() {
+		// TODO Auto-generated method stub
+		
+	}
 }
