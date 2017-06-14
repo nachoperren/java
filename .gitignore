@@ -1,6 +1,6 @@
-.metadata
-.idea
-*.iml
-.project
+*/.metadata
+*/.idea
+*/*.iml
+*/.project
 bin
 */target
