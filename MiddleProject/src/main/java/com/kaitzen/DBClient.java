@@ -51,15 +51,19 @@ public class DBClient {
 	public ResultSet select(String table, String attribute, String value) {
 		return null;
 	}
+	
+	
 	public boolean insert(String insertQuery) {
 		try {
 			PreparedStatement insertPreparedStatement = dbConnection.prepareStatement(insertQuery);
 			insertPreparedStatement.executeUpdate();
 		} catch (SQLException e) {
+			System.out.println("ERROR - No se pudo guardar la instancia");
 			return false;
 		}
 		return true;
 	}
+	
 	public void update() {
 		
 	}
