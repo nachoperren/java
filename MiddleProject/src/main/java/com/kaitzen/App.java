@@ -11,8 +11,8 @@ public class App
     public static void main( String[] args )
     {
     	DBClient dbClient = new DBClient();
-    	//dbClient.init();
-    	
+    	dbClient.init();
+    	// CREATE
     	Customer fede = new Customer();
     	fede.name = "fede pellegrinet";
     	fede.dni = "32059919";
@@ -30,5 +30,8 @@ public class App
     		savedFede = fede.save(dbClient);
     	}
         
+    	//LOAD
+    	Customer fede1 = Customer.load("32059919", dbClient);
+    	
     }
 }
